@@ -3,5 +3,4 @@
 
 # Bot ile ilgili birkaç görsel
 
-<img serc="https://cdn.discordapp.com/attachments/929829846945767505/957498095841726494/latme.png">
-<img serc="https://cdn.discordapp.com/attachments/929829846945767505/957498251509104650/lattop.png">
+
